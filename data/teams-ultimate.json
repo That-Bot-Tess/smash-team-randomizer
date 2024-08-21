@@ -1,0 +1,480 @@
+{
+    "teams":[
+        {
+            "name": "Mario Brothers",
+            "members": [
+                {
+                    "name": "mario",
+                    "franchise": "superMario"
+                }, 
+                {
+                    "name": "luigi",
+                    "franchise": "superMario"
+                },
+                {
+                    "name": "dr. mario",
+                    "franchise": "superMario"
+                }
+            ]
+        },
+        {
+            "name": "Rare's Treasures",
+            "members": [
+                {
+                    "name": "donkey kong",
+                    "franchise": "donkeyKong"
+                }, 
+                {
+                    "name": "diddy kong",
+                    "franchise": "donkeyKong"
+                },
+                {
+                    "name": "banjo and kazooie",
+                    "franchise": "banjoKazooie"
+                }
+            ]
+        },
+        {
+            "name": "Warrior Reincarnated",
+            "members": [
+                {
+                    "name": "link",
+                    "franchise": "legendOfZelda"
+                }, 
+                {
+                    "name": "young link",
+                    "franchise": "legendOfZelda"
+                },
+                {
+                    "name": "toon link",
+                    "franchise": "legendOfZelda"
+                }
+            ]
+        },
+        {
+            "name": "Explosive Weaponry",
+            "members": [
+                {
+                    "name": "samus",
+                    "franchise": "metroid"
+                }, 
+                {
+                    "name": "snake",
+                    "franchise": "metalGearSolid"
+                },
+                {
+                    "name": "inkling",
+                    "franchise": "splatoon"
+                }
+            ]
+        },
+        {
+            "name": "Dark Mirages",
+            "members": [
+                {
+                    "name": "dark samus",
+                    "franchise": "metroid"
+                }, 
+                {
+                    "name": "dark pit",
+                    "franchise": "kidIcarus"
+                },
+                {
+                    "name": "bayonetta",
+                    "franchise": "bayonetta"
+                }
+            ]
+        },
+        {
+            "name": "Party Animals",
+            "members": [
+                {
+                    "name": "yoshi",
+                    "franchise": "yoshi"
+                }, 
+                {
+                    "name": "sonic",
+                    "franchise": "sonic"
+                },
+                {
+                    "name": "duck hunt",
+                    "franchise": "duckHunt"
+                }
+            ]
+        },
+        {
+            "name": "Adorable Lightweights",
+            "members": [
+                {
+                    "name": "kirby",
+                    "franchise": "kirby"
+                }, 
+                {
+                    "name": "jigglypuff",
+                    "franchise": "pokemon"
+                },
+                {
+                    "name": "pichu",
+                    "franchise": "pokemon"
+                }
+            ]
+        },
+        {
+            "name": "Space Animals",
+            "members": [
+                {
+                    "name": "fox",
+                    "franchise": "starFox"
+                }, 
+                {
+                    "name": "falco",
+                    "franchise": "starFox"
+                }, 
+                {
+                    "name": "wolf",
+                    "franchise": "starFox"
+                }
+            ]
+        },
+        {
+            "name": "Pokemon's Greatest",
+            "members": [
+                {
+                    "name": "pikachu",
+                    "franchise": "pokemon"
+                }, 
+                {
+                    "name": "pokemon trainer",
+                    "franchise": "pokemon"
+                }, 
+                {
+                    "name": "greninja",
+                    "franchise": "pokemon"
+                }
+            ]
+        },
+        {
+            "name": "Children of Elements",
+            "members": [
+                {
+                    "name": "ness",
+                    "franchise": "earthbound"
+                }, 
+                {
+                    "name": "ice climbers",
+                    "franchise": "iceClimber"
+                },
+                {
+                    "name": "lucas",
+                    "franchise": "earthbound"
+                }
+            ]
+        },
+        {
+            "name": "Fire Fighters",
+            "members": [
+                {
+                    "name": "captain falcon",
+                    "franchise": "fZero"
+                }, 
+                {
+                    "name": "roy",
+                    "franchise": "fireEmblem"
+                },
+                {
+                    "name": "incineroar",
+                    "franchise": "pokemon"
+                }
+            ]
+        },
+        {
+            "name": "Delighted Princesses",
+            "members": [
+                {
+                    "name": "peach",
+                    "franchise": "superMario"
+                }, 
+                {
+                    "name": "zelda",
+                    "franchise": "legendOfZelda"
+                },
+                {
+                    "name": "rosalina and luma",
+                    "franchise": "superMario"
+                }
+            ]
+        },
+        {
+            "name": "Seniors of Evil",
+            "members": [
+                {
+                    "name": "bowser",
+                    "franchise": "superMario"
+                }, 
+                {
+                    "name": "ganondorf",
+                    "franchise": "legendOfZelda"
+                },
+                {
+                    "name": "mewtwo",
+                    "franchise": "pokemon"
+                }
+            ]
+        },
+        {
+            "name": "Agile & Independent",
+            "members": [
+                {
+                    "name": "sheik",
+                    "franchise": "legendOfZelda"
+                }, 
+                {
+                    "name": "zero suit samus",
+                    "franchise": "metroid"
+                },
+                {
+                    "name": "joker",
+                    "franchise": "persona"
+                }
+            ]
+        },
+        {
+            "name": "Heroic Swordsmen",
+            "members": [
+                {
+                    "name": "marth",
+                    "franchise": "fireEmblem"
+                }, 
+                {
+                    "name": "shulk",
+                    "franchise": "xenoblade"
+                },
+                {
+                    "name": "hero",
+                    "franchise": "dragonQuest"
+                }
+            ]
+        },
+        {
+            "name": "Awakened Attackers",
+            "members": [
+                {
+                    "name": "lucina",
+                    "franchise": "fireEmblem"
+                }, 
+                {
+                    "name": "chrom",
+                    "franchise": "fireEmblem"
+                },
+                {
+                    "name": "robin",
+                    "franchise": "fireEmblem"
+                }
+            ]
+        },
+        {
+            "name": "Retro Robots",
+            "members": [
+                {
+                    "name": "mr. game and watch",
+                    "franchise": "gameAndWatch"
+                },
+                {
+                    "name": "r. o. b.",
+                    "franchise": "rob"
+                },
+                {
+                    "name": "mega man",
+                    "franchise": "megaMan"
+                }
+            ]
+        },
+        {
+            "name": "Serious Swordsmen",
+            "members": [
+                {
+                    "name": "meta knight",
+                    "franchise": "kirby"
+                },
+                {
+                    "name": "ike",
+                    "franchise": "fireEmblem"
+                },
+                {
+                    "name": "cloud",
+                    "franchise": "finalFantasy"
+                }
+            ]
+        },
+        {
+            "name": "Protectors of Light",
+            "members": [
+                {
+                    "name": "pit",
+                    "franchise": "kidIcarus"
+                },
+                {
+                    "name": "palutena",
+                    "franchise": "kidIcarus"
+                },
+                {
+                    "name": "sora",
+                    "franchise": "kingdomHearts"
+                }
+            ]
+        },
+        {
+            "name": "Greedy Rascals",
+            "members": [
+                {
+                    "name": "wario",
+                    "franchise": "warioWare"
+                },
+                {
+                    "name": "king dedede",
+                    "franchise": "kirby"
+                },
+                {
+                    "name": "bowser jr.",
+                    "franchise": "superMario"
+                }
+            ]
+        },
+        {
+            "name": "Bodily Perfection",
+            "members": [
+                {
+                    "name": "lucario",
+                    "franchise": "pokemon"
+                },
+                {
+                    "name": "wii fit trainer",
+                    "franchise": "wiiFit"
+                },
+                {
+                    "name": "little mac",
+                    "franchise": "punchOut"
+                }
+            ]
+        },
+        {
+            "name": "Botanic Brawlers",
+            "members": [
+                {
+                    "name": "olimar",
+                    "franchise": "pikmin"
+                },
+                {
+                    "name": "piranha plant",
+                    "franchise": "superMario"
+                },
+                {
+                    "name": "min min",
+                    "franchise": "arms"
+                }
+            ]
+        },
+        {
+            "name": "Peaceful Denizens",
+            "members": [
+                {
+                    "name": "villager",
+                    "franchise": "animalCrossing"
+                },
+                {
+                    "name": "isabelle",
+                    "franchise": "animalCrossing"
+                },
+                {
+                    "name": "steve",
+                    "franchise": "minecraft"
+                }
+            ]
+        },
+        {
+            "name": "Fighters of Many Faces",
+            "members": [
+                {
+                    "name": "mii brawler",
+                    "franchise": "smashBros"
+                },
+                {
+                    "name": "mii swordfighter",
+                    "franchise": "smashBros"
+                },
+                {
+                    "name": "mii gunner",
+                    "franchise": "smashBros"
+                }
+            ]
+        },
+        {
+            "name": "Guest Stars",
+            "members": [
+                {
+                    "name": "pac-man",
+                    "franchise": "pacMan"
+                },
+                {
+                    "name": "ryu",
+                    "franchise": "streetFighter"
+                },
+                {
+                    "name": "simon",
+                    "franchise": "castlevania"
+                }
+            ]
+        },
+        {
+            "name": "Fighting Game Champions",
+            "members": [
+                {
+                    "name": "ken",
+                    "franchise": "streetFighter"
+                },
+                {
+                    "name": "terry",
+                    "franchise": "fatalFury"
+                },
+                {
+                    "name": "kazuya",
+                    "franchise": "tekken"
+                }
+            ]
+        },
+        {
+            "name": "Subversive Swordfighters",
+            "members": [
+                {
+                    "name": "corrin",
+                    "franchise": "fireEmblem"
+                },
+                {
+                    "name": "byleth",
+                    "franchise": "fireEmblem"
+                },
+                {
+                    "name": "pyra/mythra",
+                    "franchise": "xenoblade"
+                }
+            ]
+        },
+        {
+            "name": "Juniors of Evil",
+            "members": [
+                {
+                    "name": "ridley",
+                    "franchise": "metroid"
+                },
+                {
+                    "name": "king k. rool",
+                    "franchise": "donkeyKong"
+                },
+                {
+                    "name": "sephiroth",
+                    "franchise": "finalFantasy"
+                }
+            ]
+        }
+    ]
+}

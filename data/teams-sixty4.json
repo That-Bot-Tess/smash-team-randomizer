@@ -1,0 +1,82 @@
+{
+    "teams":[
+        {
+            "name": "Mario Brothers",
+            "members": [
+                {
+                    "name": "mario",
+                    "franchise": "superMario"
+                }, 
+                {
+                    "name": "luigi",
+                    "franchise": "superMario"
+                } 
+            ]
+        },
+        {
+            "name": "Mushroom Beasts",
+            "members": [
+                {
+                    "name": "donkey_kong",
+                    "franchise": "donkeyKong"
+                }, 
+                {
+                    "name": "yoshi",
+                    "franchise": "yoshi"
+                } 
+            ]
+        },
+        {
+            "name": "Mystical Adventurers",
+            "members": [
+                {
+                    "name": "link",
+                    "franchise": "legendOfZelda"
+                }, 
+                {
+                    "name": "ness",
+                    "franchise": "earthbound"
+                } 
+            ]
+        },
+        {
+            "name": "Facility Breakers",
+            "members": [
+                {
+                    "name": "samus",
+                    "franchise": "metroid"
+                }, 
+                {
+                    "name": "pikachu",
+                    "franchise": "pokemon"
+                } 
+            ]
+        },
+        {
+            "name": "Pink Puffballs",
+            "members": [
+                {
+                    "name": "kirby",
+                    "franchise": "kirby"
+                }, 
+                {
+                    "name": "jigglypuff",
+                    "franchise": "pokemon"
+                } 
+            ]
+        },
+        {
+            "name": "Sci-Fi Pilots",
+            "members": [
+                {
+                    "name": "fox",
+                    "franchise": "starFox"
+                }, 
+                {
+                    "name": "captain_falcon",
+                    "franchise": "fZero"
+                }
+            ]
+        }
+    ]
+}
