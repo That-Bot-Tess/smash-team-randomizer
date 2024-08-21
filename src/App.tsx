@@ -5,7 +5,6 @@ import * as xhr from './xhr'
 import { getRandomTeam } from './utils'
 
 function App() {
-  const [count, setCount] = useState(0);
   const [randomTeam, setRandomTeam] = useState({
     "name": "Mario Brothers",
     "members": [
@@ -22,15 +21,7 @@ function App() {
 
   return (
     <>
-      <h1>Vite + React</h1>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-        <p>
-          Edit <code>src/App.tsx</code> and save to test HMR
-        </p>
-      </div>
+      <h1>Smash Team Randomizer</h1>
       <Team team={randomTeam} entry='sixty4'/>
       <button onClick={() => xhr.load('sixty4', getRandomTeam, setRandomTeam)}>Randomize!</button>
       <p className="read-the-docs">
