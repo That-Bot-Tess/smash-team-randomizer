@@ -1,10 +1,8 @@
 import { useState } from 'react'
 import './App.css'
-import Character from './Character'
 import Team from './Team'
 import * as xhr from './xhr'
 import { getRandomTeam } from './utils'
-import { characterTeam } from './interfaces'
 
 function App() {
   const [count, setCount] = useState(0);

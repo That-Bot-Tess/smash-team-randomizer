@@ -1,5 +1,3 @@
-import { characterTeam } from "./interfaces";
-
 export const format = (word:string):string => {
     if (word.includes('_')){
         let wordList:string[] = word.split('_');
