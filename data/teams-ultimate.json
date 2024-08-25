@@ -12,7 +12,7 @@
                     "franchise": "superMario"
                 },
                 {
-                    "name": "dr. mario",
+                    "name": "dr._mario",
                     "franchise": "superMario"
                 }
             ]
@@ -21,15 +21,15 @@
             "name": "Rare's Treasures",
             "members": [
                 {
-                    "name": "donkey kong",
+                    "name": "donkey_kong",
                     "franchise": "donkeyKong"
                 }, 
                 {
-                    "name": "diddy kong",
+                    "name": "diddy_kong",
                     "franchise": "donkeyKong"
                 },
                 {
-                    "name": "banjo and kazooie",
+                    "name": "banjo_and_kazooie",
                     "franchise": "banjoKazooie"
                 }
             ]
@@ -42,11 +42,11 @@
                     "franchise": "legendOfZelda"
                 }, 
                 {
-                    "name": "young link",
+                    "name": "young_link",
                     "franchise": "legendOfZelda"
                 },
                 {
-                    "name": "toon link",
+                    "name": "toon_link",
                     "franchise": "legendOfZelda"
                 }
             ]
@@ -72,11 +72,11 @@
             "name": "Dark Mirages",
             "members": [
                 {
-                    "name": "dark samus",
+                    "name": "dark_samus",
                     "franchise": "metroid"
                 }, 
                 {
-                    "name": "dark pit",
+                    "name": "dark_pit",
                     "franchise": "kidIcarus"
                 },
                 {
@@ -97,7 +97,7 @@
                     "franchise": "sonic"
                 },
                 {
-                    "name": "duck hunt",
+                    "name": "duck_hunt",
                     "franchise": "duckHunt"
                 }
             ]
@@ -144,7 +144,7 @@
                     "franchise": "pokemon"
                 }, 
                 {
-                    "name": "pokemon trainer",
+                    "name": "pokemon_trainer",
                     "franchise": "pokemon"
                 }, 
                 {
@@ -161,7 +161,7 @@
                     "franchise": "earthbound"
                 }, 
                 {
-                    "name": "ice climbers",
+                    "name": "ice_climbers",
                     "franchise": "iceClimber"
                 },
                 {
@@ -174,7 +174,7 @@
             "name": "Fire Fighters",
             "members": [
                 {
-                    "name": "captain falcon",
+                    "name": "captain_falcon",
                     "franchise": "fZero"
                 }, 
                 {
@@ -191,7 +191,7 @@
             "name": "Delighted Princesses",
             "members": [
                 {
-                    "name": "peach",
+                    "name": "peach_or_daisy",
                     "franchise": "superMario"
                 }, 
                 {
@@ -199,7 +199,7 @@
                     "franchise": "legendOfZelda"
                 },
                 {
-                    "name": "rosalina and luma",
+                    "name": "rosalina_and_luma",
                     "franchise": "superMario"
                 }
             ]
@@ -229,7 +229,7 @@
                     "franchise": "legendOfZelda"
                 }, 
                 {
-                    "name": "zero suit samus",
+                    "name": "zero_suit_samus",
                     "franchise": "metroid"
                 },
                 {
@@ -276,15 +276,15 @@
             "name": "Retro Robots",
             "members": [
                 {
-                    "name": "mr. game and watch",
+                    "name": "mr._game_and_watch",
                     "franchise": "gameAndWatch"
                 },
                 {
-                    "name": "r. o. b.",
+                    "name": "r._o._b.",
                     "franchise": "rob"
                 },
                 {
-                    "name": "mega man",
+                    "name": "mega_man",
                     "franchise": "megaMan"
                 }
             ]
@@ -293,7 +293,7 @@
             "name": "Serious Swordsmen",
             "members": [
                 {
-                    "name": "meta knight",
+                    "name": "meta_knight",
                     "franchise": "kirby"
                 },
                 {
@@ -331,11 +331,11 @@
                     "franchise": "warioWare"
                 },
                 {
-                    "name": "king dedede",
+                    "name": "king_dedede",
                     "franchise": "kirby"
                 },
                 {
-                    "name": "bowser jr.",
+                    "name": "bowser_jr.",
                     "franchise": "superMario"
                 }
             ]
@@ -348,11 +348,11 @@
                     "franchise": "pokemon"
                 },
                 {
-                    "name": "wii fit trainer",
+                    "name": "wii_fit_trainer",
                     "franchise": "wiiFit"
                 },
                 {
-                    "name": "little mac",
+                    "name": "little_mac",
                     "franchise": "punchOut"
                 }
             ]
@@ -365,11 +365,11 @@
                     "franchise": "pikmin"
                 },
                 {
-                    "name": "piranha plant",
+                    "name": "piranha_plant",
                     "franchise": "superMario"
                 },
                 {
-                    "name": "min min",
+                    "name": "min_min",
                     "franchise": "arms"
                 }
             ]
@@ -395,15 +395,15 @@
             "name": "Fighters of Many Faces",
             "members": [
                 {
-                    "name": "mii brawler",
+                    "name": "mii_brawler",
                     "franchise": "smashBros"
                 },
                 {
-                    "name": "mii swordfighter",
+                    "name": "mii_swordfighter",
                     "franchise": "smashBros"
                 },
                 {
-                    "name": "mii gunner",
+                    "name": "mii_gunner",
                     "franchise": "smashBros"
                 }
             ]
@@ -420,7 +420,7 @@
                     "franchise": "streetFighter"
                 },
                 {
-                    "name": "simon",
+                    "name": "simon_or_richter",
                     "franchise": "castlevania"
                 }
             ]
@@ -454,7 +454,7 @@
                     "franchise": "fireEmblem"
                 },
                 {
-                    "name": "pyra/mythra",
+                    "name": "pyra_and_mythra",
                     "franchise": "xenoblade"
                 }
             ]
@@ -467,7 +467,7 @@
                     "franchise": "metroid"
                 },
                 {
-                    "name": "king k. rool",
+                    "name": "king_k._rool",
                     "franchise": "donkeyKong"
                 },
                 {

@@ -5,8 +5,8 @@ const Character = ({name, franchise, entry}:characterParam,):JSX.Element => {
     let imgUrl:string = `./images/${entry}/${name}.png`;
     let franchiseUrl:string = `./images/franchises/${franchise}.png`;
 
-    return <div className="fighter"><h3>{utils.format(name)}</h3>
-    <img src={imgUrl} className="fighter-render"/>
+    return <div className="character"><h3>{utils.format(name)}</h3>
+    <img src={imgUrl} className="character-render"/>
     <img src={franchiseUrl} className="franchise"/>
     </div>;
 }

@@ -3,8 +3,23 @@ export const format = (word:string):string => {
         let wordList:string[] = word.split('_');
         let result:string = "";
         for (let w of wordList){
+            if (w == "and"){
+                w = "&"
+            }
+            if (w == "pokemon"){
+                w = "pokémon"
+            }
             result += w[0].toUpperCase() + w.slice(1);
             if (wordList.indexOf(w) != wordList.length - 1) result += " ";
+        }
+        return result;
+    }
+    else if (word.includes('-')){
+        let wordList:string[] = word.split('-');
+        let result:string = "";
+        for (let w of wordList){
+            result += w[0].toUpperCase() + w.slice(1);
+            if (wordList.indexOf(w) != wordList.length - 1) result += "-";
         }
         return result;
     }
@@ -18,4 +33,11 @@ export const getRandomTeam = (teamList: any, callback:Function): void => {
     let result = teamList.teams[Math.floor(Math.random() * count)];
     console.log(result);
     callback(result);
+}
+
+export const randomizeTeams = ():void => {
+    let buttons:NodeListOf<HTMLButtonElement> = document.querySelectorAll('button');
+    for (let i = 0; i < buttons.length; i++){
+        buttons[i].click();
+    }
 }

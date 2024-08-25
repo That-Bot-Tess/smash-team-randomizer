@@ -17,11 +17,11 @@
             "name": "Monkey Brawlers",
             "members": [
                 {
-                    "name": "donkey kong",
+                    "name": "donkey_kong",
                     "franchise": "donkeyKong"
                 }, 
                 {
-                    "name": "diddy kong",
+                    "name": "diddy_kong",
                     "franchise": "donkeyKong"
                 } 
             ]
@@ -108,11 +108,11 @@
             "name": "Fire & Ice",
             "members": [
                 {
-                    "name": "captain falcon",
+                    "name": "captain_falcon",
                     "franchise": "fZero"
                 }, 
                 {
-                    "name": "ice climbers",
+                    "name": "ice_climbers",
                     "franchise": "iceClimber"
                 }
             ]
@@ -138,7 +138,7 @@
                     "franchise": "legendOfZelda"
                 }, 
                 {
-                    "name": "zero suit samus",
+                    "name": "zero_suit_samus",
                     "franchise": "metroid"
                 }
             ]
@@ -173,11 +173,11 @@
             "name": "Retro Robots",
             "members": [
                 {
-                    "name": "mr. game and watch",
+                    "name": "mr._game_and_watch",
                     "franchise": "gameAndWatch"
                 },
                 {
-                    "name": "r. o. b.",
+                    "name": "r._o._b.",
                     "franchise": "rob"
                 }
             ]
@@ -186,7 +186,7 @@
             "name": "Serious Challengers",
             "members": [
                 {
-                    "name": "meta knight",
+                    "name": "meta_knight",
                     "franchise": "kirby"
                 },
                 {
@@ -203,7 +203,7 @@
                     "franchise": "warioWare"
                 },
                 {
-                    "name": "king dedede",
+                    "name": "king_dedede",
                     "franchise": "kirby"
                 }
             ]
@@ -225,11 +225,11 @@
             "name": "Double Battlers",
             "members": [
                 {
-                    "name": "pokemon trainer",
+                    "name": "pokemon_trainer",
                     "franchise": "pokemon"
                 },
                 {
-                    "name": "pokemon trainer",
+                    "name": "pokemon_trainer",
                     "franchise": "pokemon"
                 }
             ]
@@ -242,7 +242,7 @@
                     "franchise": "pikmin"
                 },
                 {
-                    "name": "toon link",
+                    "name": "toon_link",
                     "franchise": "legendOfZelda"
                 }
             ]

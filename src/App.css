@@ -39,23 +39,40 @@
   color: #888;
 }
 
-.fighter {
-  max-width: 65%
+.character {
+  max-width: 60%;
 }
 
-.fighter-render {
-  z-index: 0;
+.character-render {
+  position: relative;
+  top: 50px;
 }
 
 .franchise {
   max-width: 100px;
   position: relative;
-  right: 50px;
+  left: 60px;
+  bottom: 20px;
   z-index: -1; 
 }
 
-.fighter-team {
+.team-characters {
+  display: flex;
+  flex-direction: row;
+}
+
+.team {
+  flex-direction: column;
+  max-width: 45%;
+}
+
+#team-battle {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+}
+
+#vs {
+  position: relative;
+  top: 200px;
 }
