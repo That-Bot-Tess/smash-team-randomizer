@@ -1,0 +1,303 @@
+{
+    "teams":[
+        {
+            "name": "Mario Brothers",
+            "members": [
+                {
+                    "name": "mario",
+                    "franchise": "superMario"
+                }, 
+                {
+                    "name": "luigi",
+                    "franchise": "superMario"
+                } 
+            ]
+        },
+        {
+            "name": "Mushroom Beasts",
+            "members": [
+                {
+                    "name": "donkey_kong",
+                    "franchise": "donkeyKong"
+                }, 
+                {
+                    "name": "yoshi",
+                    "franchise": "yoshi"
+                } 
+            ]
+        },
+        {
+            "name": "Mystical Adventurers",
+            "members": [
+                {
+                    "name": "link",
+                    "franchise": "legendOfZelda"
+                }, 
+                {
+                    "name": "zelda_and_sheik",
+                    "franchise": "legendOfZelda"
+                } 
+            ]
+        },
+        {
+            "name": "Facility Breakers",
+            "members": [
+                {
+                    "name": "samus",
+                    "franchise": "metroid"
+                }, 
+                {
+                    "name": "pikachu",
+                    "franchise": "pokemon"
+                } 
+            ]
+        },
+        {
+            "name": "Pink Puffballs",
+            "members": [
+                {
+                    "name": "kirby",
+                    "franchise": "kirby"
+                }, 
+                {
+                    "name": "jigglypuff",
+                    "franchise": "pokemon"
+                } 
+            ]
+        },
+        {
+            "name": "Space Animals",
+            "members": [
+                {
+                    "name": "fox",
+                    "franchise": "starFox"
+                }, 
+                {
+                    "name": "falco",
+                    "franchise": "starFox"
+                }
+            ]
+        },
+        {
+            "name": "Magical Family",
+            "members": [
+                {
+                    "name": "ness",
+                    "franchise": "earthbound"
+                }, 
+                {
+                    "name": "peach",
+                    "franchise": "superMario"
+                }
+            ]
+        },
+        {
+            "name": "Fan Favorites",
+            "members": [
+                {
+                    "name": "captain_falcon",
+                    "franchise": "fZero"
+                }, 
+                {
+                    "name": "goku",
+                    "franchise": "dragonBall"
+                }
+            ]
+        },
+        {
+            "name": "Seniors of Evil",
+            "members": [
+                {
+                    "name": "bowser",
+                    "franchise": "superMario"
+                }, 
+                {
+                    "name": "ganondorf",
+                    "franchise": "legendOfZelda"
+                }
+            ]
+        },
+        {
+            "name": "Featherweight Friends",
+            "members": [
+                {
+                    "name": "pichu",
+                    "franchise": "pokemon"
+                }, 
+                {
+                    "name": "mr._game_and_watch",
+                    "franchise": "gameAndWatch"
+                }
+            ]
+        },
+        {
+            "name": "Heroic Swordsmen",
+            "members": [
+                {
+                    "name": "marth",
+                    "franchise": "fireEmblem"
+                }, 
+                {
+                    "name": "lloyd",
+                    "franchise": "tales"
+                }
+            ]
+        },
+        {
+            "name": "Star Allies",
+            "members": [
+                {
+                    "name": "meta_knight",
+                    "franchise": "kirby"
+                }, 
+                {
+                    "name": "bandana_dee",
+                    "franchise": "kirby"
+                }
+            ]
+        },
+        {
+            "name": "Demon Slayers",
+            "members": [
+                {
+                    "name": "pit",
+                    "franchise": "kidIcarus"
+                }, 
+                {
+                    "name": "simon",
+                    "franchise": "castlevania"
+                }
+            ]
+        },
+        {
+            "name": "Agile & Independent",
+            "members": [
+                {
+                    "name": "zero_suit_samus",
+                    "franchise": "metroid"
+                }, 
+                {
+                    "name": "krystal",
+                    "franchise": "starFox"
+                }
+            ]
+        },
+        {
+            "name": "WAHrio Brothers",
+            "members": [
+                {
+                    "name": "wario",
+                    "franchise": "warioWare"
+                }, 
+                {
+                    "name": "waluigi",
+                    "franchise": "superMario"
+                }
+            ]
+        },
+        {
+            "name": "Looping Speedsters",
+            "members": [
+                {
+                    "name": "sonic",
+                    "franchise": "sonic"
+                }, 
+                {
+                    "name": "tails",
+                    "franchise": "sonic"
+                }
+            ]
+        },
+        {
+            "name": "Spirited Brawlers",
+            "members": [
+                {
+                    "name": "lucario",
+                    "franchise": "pokemon"
+                }, 
+                {
+                    "name": "ryu",
+                    "franchise": "streetFighter"
+                }
+            ]
+        },
+        {
+            "name": "Iconic Visitors",
+            "members": [
+                {
+                    "name": "mega_man",
+                    "franchise": "megaMan"
+                }, 
+                {
+                    "name": "pac-man",
+                    "franchise": "pacMan"
+                }
+            ]
+        },
+        {
+            "name": "Protectors of Light",
+            "members": [
+                {
+                    "name": "sora",
+                    "franchise": "kingdomHearts"
+                }, 
+                {
+                    "name": "isaac",
+                    "franchise": "goldenSun"
+                }
+            ]
+        },
+        {
+            "name": "Toying Threats",
+            "members": [
+                {
+                    "name": "chibi-robo",
+                    "franchise": "chibiRobo"
+                }, 
+                {
+                    "name": "sandbag",
+                    "franchise": "smashBros"
+                }
+            ]
+        },
+        {
+            "name": "Silly Proportions",
+            "members": [
+                {
+                    "name": "bomberman",
+                    "franchise": "bomberman"
+                }, 
+                {
+                    "name": "black_mage",
+                    "franchise": "finalFantasy"
+                }
+            ]
+        },
+        {
+            "name": "Limb-Breaking Leapers",
+            "members": [
+                {
+                    "name": "rayman",
+                    "franchise": "rayman"
+                }, 
+                {
+                    "name": "luffy",
+                    "franchise": "onePiece"
+                }
+            ]
+        },
+        {
+            "name": "Anime Samurai",
+            "members": [
+                {
+                    "name": "naruto",
+                    "franchise": "naruto"
+                }, 
+                {
+                    "name": "ichigo",
+                    "franchise": "bleach"
+                }
+            ]
+        }
+    ]
+}
