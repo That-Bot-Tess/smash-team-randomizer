@@ -41,18 +41,11 @@
 
 .character {
   max-width: 60%;
-}
-
-.character-render {
-  position: relative;
-  top: 50px;
+  flex-direction: column;
 }
 
 .franchise {
   max-width: 100px;
-  position: relative;
-  left: 60px;
-  bottom: 20px;
   z-index: -1; 
 }
 
@@ -63,13 +56,14 @@
 
 .team {
   flex-direction: column;
-  max-width: 45%;
+  width: 46%;
 }
 
 #team-battle {
   display: flex;
   flex-wrap: wrap;
   flex-direction: row;
+  text-align: center;
 }
 
 #vs {
