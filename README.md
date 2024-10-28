@@ -19,8 +19,8 @@ Transpiled using Babel to work in older browsers.
 * `images/` - Contains all renders and franchise icons of characters, based on the game chosen. Images taken from https://www.ssbwiki.com/.
 
 ## Other notable files
-* `index.html` - The HTML page where everything comes together. The github.io page requires this to be in the root and use a JS file, so the `<script>` tag links to the js file in `dist/` to ensure the website works. Ensure this links to `src/main.tsx` if you want to test the code before building it.
-* `package.json` - Has all the modules required to run the app. Ensure you run `npm i` when cloning to install them.
+* `index.html` - The HTML page where everything comes together. The github.io page requires this to be in the root and use a JS file, so the `<script>` tag links to the js file in `dist/` to ensure the website works. Link it to `src/main.tsx` if you want to test the code before building it.
+* `package.json` - Has all the modules required to run the app. Run `npm i` when cloning to install them.
 
 ## Download and Compilation
 When cloning the project, run `npm i` in the root directory using the command line to install the modules. The primary way to execute it is by running `npm start`, which runs the tsx files in `src/`. However, the website doesn't use this folder, but instead uses a transpiled js file in `dist/`. To transpile, type `npm run build` in the command line. The resulting JS file will be in `dist/` and have the same functionality with less efficiency. 
