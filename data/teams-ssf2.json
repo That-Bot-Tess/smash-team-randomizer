@@ -1,16 +1,16 @@
 {
-    "teams":[
+    "teams": [
         {
             "name": "Mario Brothers",
             "members": [
                 {
                     "name": "mario",
                     "franchise": "superMario"
-                }, 
+                },
                 {
                     "name": "luigi",
                     "franchise": "superMario"
-                } 
+                }
             ]
         },
         {
@@ -19,11 +19,11 @@
                 {
                     "name": "donkey_kong",
                     "franchise": "donkeyKong"
-                }, 
+                },
                 {
                     "name": "yoshi",
                     "franchise": "yoshi"
-                } 
+                }
             ]
         },
         {
@@ -32,11 +32,11 @@
                 {
                     "name": "link",
                     "franchise": "legendOfZelda"
-                }, 
+                },
                 {
                     "name": "zelda",
                     "franchise": "legendOfZelda"
-                } 
+                }
             ]
         },
         {
@@ -45,11 +45,11 @@
                 {
                     "name": "samus",
                     "franchise": "metroid"
-                }, 
+                },
                 {
                     "name": "pikachu",
                     "franchise": "pokemon"
-                } 
+                }
             ]
         },
         {
@@ -58,11 +58,11 @@
                 {
                     "name": "kirby",
                     "franchise": "kirby"
-                }, 
+                },
                 {
                     "name": "jigglypuff",
                     "franchise": "pokemon"
-                } 
+                }
             ]
         },
         {
@@ -71,7 +71,7 @@
                 {
                     "name": "fox",
                     "franchise": "starFox"
-                }, 
+                },
                 {
                     "name": "falco",
                     "franchise": "starFox"
@@ -84,7 +84,7 @@
                 {
                     "name": "ness",
                     "franchise": "earthbound"
-                }, 
+                },
                 {
                     "name": "peach",
                     "franchise": "superMario"
@@ -97,7 +97,7 @@
                 {
                     "name": "captain_falcon",
                     "franchise": "fZero"
-                }, 
+                },
                 {
                     "name": "goku",
                     "franchise": "dragonBall"
@@ -110,7 +110,7 @@
                 {
                     "name": "bowser",
                     "franchise": "superMario"
-                }, 
+                },
                 {
                     "name": "ganondorf",
                     "franchise": "legendOfZelda"
@@ -123,7 +123,7 @@
                 {
                     "name": "pichu",
                     "franchise": "pokemon"
-                }, 
+                },
                 {
                     "name": "mr._game_and_watch",
                     "franchise": "gameAndWatch"
@@ -136,7 +136,7 @@
                 {
                     "name": "marth",
                     "franchise": "fireEmblem"
-                }, 
+                },
                 {
                     "name": "lloyd",
                     "franchise": "tales"
@@ -149,20 +149,20 @@
                 {
                     "name": "meta_knight",
                     "franchise": "kirby"
-                }, 
+                },
                 {
                     "name": "sheik",
                     "franchise": "legendOfZelda"
                 }
             ]
-        }
+        },
         {
             "name": "Star Allies",
             "members": [
                 {
                     "name": "king_dedede",
                     "franchise": "kirby"
-                }, 
+                },
                 {
                     "name": "bandana_dee",
                     "franchise": "kirby"
@@ -175,7 +175,7 @@
                 {
                     "name": "pit",
                     "franchise": "kidIcarus"
-                }, 
+                },
                 {
                     "name": "simon",
                     "franchise": "castlevania"
@@ -188,7 +188,7 @@
                 {
                     "name": "zero_suit_samus",
                     "franchise": "metroid"
-                }, 
+                },
                 {
                     "name": "krystal",
                     "franchise": "starFox"
@@ -201,7 +201,7 @@
                 {
                     "name": "wario",
                     "franchise": "warioWare"
-                }, 
+                },
                 {
                     "name": "waluigi",
                     "franchise": "superMario"
@@ -214,7 +214,7 @@
                 {
                     "name": "sonic",
                     "franchise": "sonic"
-                }, 
+                },
                 {
                     "name": "tails",
                     "franchise": "sonic"
@@ -227,7 +227,7 @@
                 {
                     "name": "lucario",
                     "franchise": "pokemon"
-                }, 
+                },
                 {
                     "name": "ryu",
                     "franchise": "streetFighter"
@@ -240,7 +240,7 @@
                 {
                     "name": "mega_man",
                     "franchise": "megaMan"
-                }, 
+                },
                 {
                     "name": "pac-man",
                     "franchise": "pacMan"
@@ -253,7 +253,7 @@
                 {
                     "name": "sora",
                     "franchise": "kingdomHearts"
-                }, 
+                },
                 {
                     "name": "isaac",
                     "franchise": "goldenSun"
@@ -266,7 +266,7 @@
                 {
                     "name": "chibi-robo",
                     "franchise": "chibiRobo"
-                }, 
+                },
                 {
                     "name": "sandbag",
                     "franchise": "smashBros"
@@ -279,7 +279,7 @@
                 {
                     "name": "bomberman",
                     "franchise": "bomberman"
-                }, 
+                },
                 {
                     "name": "black_mage",
                     "franchise": "finalFantasy"
@@ -292,7 +292,7 @@
                 {
                     "name": "rayman",
                     "franchise": "rayman"
-                }, 
+                },
                 {
                     "name": "luffy",
                     "franchise": "onePiece"
@@ -305,7 +305,7 @@
                 {
                     "name": "naruto",
                     "franchise": "naruto"
-                }, 
+                },
                 {
                     "name": "ichigo",
                     "franchise": "bleach"
