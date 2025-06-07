@@ -34,7 +34,7 @@
                     "franchise": "legendOfZelda"
                 }, 
                 {
-                    "name": "zelda_and_sheik",
+                    "name": "zelda",
                     "franchise": "legendOfZelda"
                 } 
             ]
@@ -144,10 +144,23 @@
             ]
         },
         {
-            "name": "Star Allies",
+            "name": "Masked Ninjas",
             "members": [
                 {
                     "name": "meta_knight",
+                    "franchise": "kirby"
+                }, 
+                {
+                    "name": "sheik",
+                    "franchise": "legendOfZelda"
+                }
+            ]
+        }
+        {
+            "name": "Star Allies",
+            "members": [
+                {
+                    "name": "king_dedede",
                     "franchise": "kirby"
                 }, 
                 {
