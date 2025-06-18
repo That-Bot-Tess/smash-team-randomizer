@@ -43,6 +43,7 @@ function App() {
         <option value='sixty4' selected>Smash 64</option>
         <option value='melee'>Melee</option>
         <option value='brawl'>Brawl</option>
+        <option value='plus'>Project +</option>
         <option value='sm4sh'>Wii U</option>
         <option value='ultimate'>Ultimate</option>
         <option value='ssf2'>SSF2</option>
